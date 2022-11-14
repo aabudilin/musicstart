@@ -1,4 +1,5 @@
-#MusicStart PRO is an online platform for supporting and promoting aspiring musicians, composers and performers.
+#MusicStart PRO
+Is an online platform for supporting and promoting aspiring musicians, composers and performers.
 
 Platform website - musicstart.pro
 
